@@ -20,7 +20,7 @@ If you want to use it you need to write getlink function by yourself (Implement 
 
 NGINX Proxy can handle a lot of concurrents for best performance.
 
-I saw a lot of Proxy Player Script use curl or createReadStream so I decided to make it with only NGINX.
+I saw a lot of Proxy Player Scripts use curl or createReadStream so I decided to make it with only NGINX.
 
 ## Feature
 
