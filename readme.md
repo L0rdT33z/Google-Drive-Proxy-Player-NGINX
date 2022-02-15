@@ -1,8 +1,8 @@
 # Google Drive Proxy Player (Educational Purpose only !!)
 
-I wrote this since 2019 so I decided to publish it for **educational purpose**.
+I wrote this in 2019, so I decided to publish it for **educational purpose**.
 
-If you want to use it you need to write getlink function by yourself (Implement with your caching).
+If you want to use it, you need to write get link function by yourself (Implement with your caching).
 
 ## Intro
 
@@ -18,7 +18,7 @@ If you want to use it you need to write getlink function by yourself (Implement 
 
 ## Why NGINX ?
 
-NGINX Proxy can handle a lot of concurrents for best performance.
+NGINX Proxy can handle a lot of concurrent for best performance.
 
 I saw a lot of Proxy Player Scripts use curl or createReadStream so I decided to make it with only NGINX.
 
